@@ -1,0 +1,19 @@
+#enter-btn {
+    height: 48px;
+    width: 100%;
+    outline: none;
+    background: linear-gradient(120deg, #7D0CF8, #0B4FD9, #7D0CF8);
+    background-size: 200%;
+    margin-bottom: 30px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+    border: unset;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .5s ease-in-out;
+}
+
+#enter-btn:hover {
+    background-position: right;
+}

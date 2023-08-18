@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+  
+  
+}
+body{
+  background: linear-gradient(120deg, #7D0CF8, #0B4FD9) no-repeat fixed;
+  position: relative;
+}
